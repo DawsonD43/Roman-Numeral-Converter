@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/dawso/Documents/Personal_Projects/Roman-Numeral-Converter/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\I686-W~2.EXE   -g -o CMakeFiles\\Converter.dir\\src\\main.cpp.obj -c C:\\Users\\dawso\\Documents\\Personal_Projects\\Roman-Numeral-Converter\\src\\main.cpp",
+  "file": "C:/Users/dawso/Documents/Personal_Projects/Roman-Numeral-Converter/src/main.cpp"
+},
+{
+  "directory": "C:/Users/dawso/Documents/Personal_Projects/Roman-Numeral-Converter/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\I686-W~2.EXE   -g -o CMakeFiles\\Converter.dir\\src\\Roman.cpp.obj -c C:\\Users\\dawso\\Documents\\Personal_Projects\\Roman-Numeral-Converter\\src\\Roman.cpp",
+  "file": "C:/Users/dawso/Documents/Personal_Projects/Roman-Numeral-Converter/src/Roman.cpp"
+}
+]
